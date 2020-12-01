@@ -1,5 +1,5 @@
-# SyntheticShapesData
-Synthetic data containing Cubes, Cuboids, Spheres and Cylinders on a static background.
+# Synthetic 3DShape Data
+Synthetic data containing 3D Cubes, Cuboids, Spheres and Cylinders rendered on a static background.
 
 
 ## Dataset description
